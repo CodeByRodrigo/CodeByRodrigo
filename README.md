@@ -2,22 +2,21 @@
 
 ## 👨‍💻 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
-- 🖥️ Interesse em Infraestrutura de TI e Desenvolvimento  
-- 🎯 Objetivo: virar um profissional híbrido (TI + Hardware)
+- 🎯Interesse em se tornar desenvolvedor backend
 
 ---
 
 ## 🛠️ Linguagens e Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,git,github,linux,html,css,vscode" />
+  <img src="[https://skillicons.dev/icons?i=java,js,git,github,linux,html,css,vscode](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,linux,docker)" />
 </p>
 
 ---
 
 ## 📊 Estatísticas
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodeByRodrigo&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByRodrigo&layout=compact&theme=dark"/>
 </p>
 
 ---
