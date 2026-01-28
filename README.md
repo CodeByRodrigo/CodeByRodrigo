@@ -1,17 +1,9 @@
-## Hi Rodrigo
-
-<h1 align="center">Rodrigo 🚀</h1>
-<h3 align="center">Estudante de ADS | Infraestrutura de TI | Java & Hardware</h3>
-
-<p align="center">
-  Apaixonado por tecnologia, elétrica e automação. Misturo TI com mundo real.
-</p>
+<h1 align="center">Rodrigo Lourenço da Silva</h1>
 
 ---
 
 ## 👨‍💻 Sobre mim
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas  
-- ⚡ Experiência com elétrica e manutenção de nobreaks  
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas   
 - 🖥️ Interesse em Infraestrutura de TI e Desenvolvimento  
 - 🎯 Objetivo: virar um profissional híbrido (TI + Hardware)
 
