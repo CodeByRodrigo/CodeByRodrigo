@@ -1,7 +1,5 @@
 <h1 align="center">Rodrigo Lourenço da Silva</h1>
 
----
-
 ## 👨‍💻 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
 - 🖥️ Interesse em Infraestrutura de TI e Desenvolvimento  
