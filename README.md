@@ -6,10 +6,11 @@
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Tecnologias Backend
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=java,js,git,github,linux,html,css,vscode](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,linux,docker)" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,linux,docker" />
 </p>
+
 
 ---
 
