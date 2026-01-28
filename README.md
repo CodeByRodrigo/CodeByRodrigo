@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
-- 🎯Interesse em se tornar desenvolvedor backend
+- 🎯 Objetivo em se tornar desenvolvedor backend
 
 ---
 
