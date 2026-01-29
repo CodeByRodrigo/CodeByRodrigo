@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,git,github,docker,idea&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,git,github,docker,idea&theme=dark" />
 </p>
 
 ---
