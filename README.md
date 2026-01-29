@@ -1,6 +1,8 @@
 <h1 align="center">Rodrigo Lourenço da Silva</h1>
 
 ## 👨‍💻 Sobre mim
+- 🪪 20 anos
+- 📍 São Paulo
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas   
 - 🎯 Objetivo em se tornar desenvolvedor backend
 
