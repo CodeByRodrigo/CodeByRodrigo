@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologias Backend
-<p align="left">
+
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
@@ -16,7 +16,7 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
-</p>
+
 
 ---
 
