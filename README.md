@@ -48,9 +48,3 @@ Sistema desenvolvido em Java para praticar programação e simular o gerenciamen
 Estou desenvolvendo novos projetos para aplicar meus conhecimentos em programação, automação e tecnologia.
 
 Confira meus repositórios para acompanhar minha evolução.
-
----
-
-<p align="center">
-  <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i>
-</p>
