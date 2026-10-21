@@ -1,50 +1,48 @@
+# Olá, eu sou o Rodrigo! 👋
 
-<h1 align="center">Olá, eu sou o Rodrigo! 👋</h1>
+Estudante de tecnologia em São Paulo, com foco em **desenvolvimento de software e automação**. Unindo programação com uma base em **redes e monitoramento**, gosto de criar ferramentas que resolvem problemas reais de TI.
 
-<p align="center">
-  Estudante de tecnologia, interessado em desenvolvimento de software,
-  automação e resolução de problemas por meio da programação.
-</p>
+🎯 **Buscando:** [estágio / primeira oportunidade em desenvolvimento, automação ou infraestrutura]
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-lourenco-da-silva">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/CodeByRodrigo">
-    <img src="https://img.shields.io/badge/GitHub-Repositórios-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-lourenco-da-silva)
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🛠️ Tecnologias
 
-- 📚 Estudando programação e fundamentos da computação.
-- ☕ Desenvolvendo projetos com Java.
-- 🐍 Estudando Python, com interesse em automação.
-- 🧠 Aprimorando lógica de programação e resolução de problemas.
-- 🖥️ Explorando Linux, redes e ferramentas de monitoramento.
+**Programação:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠️ Tecnologias e ferramentas
+**Ferramentas e infra:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
+**Redes e monitoramento:** TCP/IP • DNS • DHCP • SNMP • Zabbix
 
-**Outros conhecimentos:** TCP/IP, DNS, DHCP, Windows, Zabbix, Grafana e SNMP.
+---
 
 ## 📂 Projetos
 
-### 🎫 Sistema de Chamados HelpDesk
-Sistema desenvolvido em Java para praticar programação e simular o gerenciamento de chamados de suporte técnico.
+### 🎫 [Sistema de Chamados HelpDesk](https://github.com/CodeByRodrigo/Sistema-de-Chamados-HelpDesk)
+Sistema em Java que simula o gerenciamento de chamados de suporte técnico.
+- **Funcionalidades:** [abrir chamado, listar, alterar status, etc.]
+- **Conceitos aplicados:** [POO, coleções, tratamento de exceções...]
+- **Stack:** Java
 
-🔗 [Acessar repositório](https://github.com/CodeByRodrigo/Sistema-de-Chamados-HelpDesk)
+### 🐍 [Radar - Estudando Lógica](https://github.com/CodeByRodrigo/Radar-estudando-logica)
+[O que esse projeto faz, em 1-2 linhas.]
+- **Stack:** Python
 
-### 🚀 Outros projetos
-Estou desenvolvendo novos projetos para aplicar meus conhecimentos em programação, automação e tecnologia.
+### ☕ [Java Printf Formatting](https://github.com/CodeByRodrigo/java-printf-formatting)
+Exemplos de saída formatada no console com `printf` e `Locale`.
 
-Confira meus repositórios para acompanhar minha evolução.
+---
+
+## 🌱 Agora estou
+- Estudando [tema atual: ex. Spring Boot, automação com Python, SQL]
+- Construindo [próximo projeto]
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/rodrigo-lourenco-da-silva) • [seu e-mail, se quiser]
